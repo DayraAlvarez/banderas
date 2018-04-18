@@ -1,0 +1,17 @@
+.bandera, .bandera p {
+   display: block;
+   height: 20vh;
+   width: 100%;
+}
+
+.amarillo{
+   background-color: #ffe600;
+   color: black;
+
+}
+
+.gris{
+  background-color: gray;
+  color:white;
+
+}
