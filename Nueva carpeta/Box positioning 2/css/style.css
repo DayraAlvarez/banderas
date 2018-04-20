@@ -1,0 +1,40 @@
+body{
+  background-color: lightgray;
+}
+
+#First_box{
+  background-color: #ffe6ff;
+  top:0;
+  left:0;
+  position:absolute;
+  height: 10em;
+  width: 10em;
+}
+
+#Second_box{
+  background-color: #e6ccff;
+  height: 10em;
+  width: 10em;
+  top: 0;
+  right: 0;
+  position: absolute;
+}
+
+#Third_box{
+  background-color: #e6e6ff;
+  height: 10em;
+  width: 10em;
+  bottom:0;
+  left: 0;
+  position: absolute;
+}
+
+#Fourth_box{
+  background-color: #e6ffe6;
+  height: 10em;
+  width: 10em;
+  position: absolute;
+  bottom: 0;
+  right: 0;
+
+}
